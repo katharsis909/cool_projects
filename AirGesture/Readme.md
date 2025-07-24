@@ -1,0 +1,15 @@
+Introducing Air Gesture..☺️
+
+Swiping and Scrolling without "touch".
+
+I mean it was just few decades ago; touch screen technology came and now, we even got past that!
+Quite unexpectedl! Woww!
+
+I make use of openCV for capturing and displaying frames, pyautoGUI to control mouse and mediapipe to detect palm keypoints in hand.
+
+
+
+
+The Demo for using the software is given in the file - emo.mp4.
+
+Keep sure to checkout the requirements in requirements.txt.
