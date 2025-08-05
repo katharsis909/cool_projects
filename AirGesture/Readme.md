@@ -16,4 +16,4 @@ I make use of openCV for capturing and displaying frames, pyautoGUI to control m
 
 The Demo for using the software is given in the file - demo.mp4.
 
-Keep sure to checkout the requirements in requirements.txt.
+Keep sure to checkout the requirements in requirements.txt !
